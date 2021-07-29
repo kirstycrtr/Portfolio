@@ -2,11 +2,17 @@ h1 {
   color: orange;
 }
 
-.header-background {
+.header {
+  display: inline-flex;
   background-color:aqua;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .headernav {
   display: inline-flex;
+  background-color: burlywood;
+  justify-content: flex-end;
+  align-items: center;
   
 }
