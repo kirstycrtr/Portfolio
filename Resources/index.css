@@ -2,6 +2,11 @@ h1 {
   color: orange;
 }
 
-nav {
+.header-background {
+  background-color:aqua;
+}
+
+.headernav {
+  display: inline-flex;
   
 }
